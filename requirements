@@ -1,0 +1,10 @@
+tensorflow
+numpy
+keras
+CNN
+transfer learning
+cv2
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
